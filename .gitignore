@@ -1,0 +1,32 @@
+# Auto generated
+**/.auto_*.conf
+
+# Eclipse Files
+**/.project
+**/.classpath
+**/.settings/
+
+# PyCharm/IntelliJ
+**/.idea/
+python??_env
+
+# Maven Files
+**/target/
+
+# Python Files
+**/*.egg-info
+**/*.pyc
+**/dist
+**/MANIFEST*
+
+# Java Files
+**/*.class
+**/*.jar
+
+# General Binary Files
+**/*.zip
+**/*.tar
+**/*.tar.gz
+**/*.gzip
+**/*.exe
+**/*.msi
